@@ -1,4 +1,4 @@
-import youtube_dl
+import youtube_dl  # pip install youtube-dl==2020.5.29
 from aiogram import Bot, Dispatcher, executor, types
 import os, time
 
